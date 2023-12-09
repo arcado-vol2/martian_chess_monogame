@@ -1,0 +1,8 @@
+C:\Users\Root\Desktop\test build\martian_chess.pdb
+C:\Users\Root\Desktop\test build\Content/drone.xnb
+C:\Users\Root\Desktop\test build\Content/galleryFont.xnb
+C:\Users\Root\Desktop\test build\Content/paw.xnb
+C:\Users\Root\Desktop\test build\Content/queen.xnb
+C:\Users\Root\Desktop\test build\SDL2.dll
+C:\Users\Root\Desktop\test build\soft_oal.dll
+C:\Users\Root\Desktop\test build\martian_chess.exe
